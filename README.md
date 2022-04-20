@@ -8,13 +8,13 @@ Create Post: Users will be able to create new blog posts when logged in. New pos
 Delete Post: Users will be able to delete blog posts when logged in. Deleted posts will be permanently deleted.
 Level up: Users will rack up points to become a heavier weight in the reviews section.
 -----------------------------------------------------------
-Technologies: What languages and technologies will you use to build your application? For example, for the coding-events application from Unit 2 - Java, the technologies would be:
+Technologies:
 Java
 Spring Boot
 MySQL
 Hibernate
 Thymeleaf templates
 -----------------------------------------------------------
-What you’ll have to learn: In the course of building your project, you’ll have to learn something new. Perhaps you want to use data from a public API, or add a bit of JavaScript to make your front-end more interactive. If you can’t name the exact technology or technique that you’ll have to learn, you should still be able to describe a problem that you have identified that you don’t currently know how to solve.
+What you’ll have to learn: In the course of building this project. I will have to first design the app repectively to the languages that we pruposed to use as a group. In this case I will have to review and update myself with the supposed languages. As these languages are Java and we are using Visual Studio, I will also have to learn how to use this difference of an IDE.
 -----------------------------------------------------------
 Project Tracker: https://trello.com/mohamedalikaraki1/boards
